@@ -7,3 +7,6 @@
 [submodule "3rdparty/livox_ros_driver2"]
 	path = 3rdparty/livox_ros_driver2
 	url = https://github.com/Livox-SDK/livox_ros_driver2.git
+[submodule "3rdparty/LIO-SAM"]
+	path = 3rdparty/LIO-SAM
+	url = https://github.com/TixiaoShan/LIO-SAM.git

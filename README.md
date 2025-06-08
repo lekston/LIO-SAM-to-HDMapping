@@ -18,9 +18,10 @@ It is strongly recommended to use the dockerized version as it avoids modifing y
 1. Build and install `Livox-SDK/Livox-SDK2` using cmake
 2. Build and install `Livox-SDK/livox_ros_driver2` using `./build.sh ROS1` included in that repo
 3. Build and install `LIO-SAM` using catkin
+    - If you encounter import errors or FLANN serialization issues during compilation please follow instuction from the docker file linked below
 4. Build and install `cpp_pubsub` helper node using catkin
 
-For more details on building the above packages locally please see:
+For more details on building the above packages locally please see this docker file:
 [LIO-SAM Docker file](https://github.com/lekston/ros_dockers/blob/dev/ros_on_docker/Dockerfile_ros1_lio_sam)
 
 ## Converting datasets:
