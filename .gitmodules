@@ -1,12 +1,12 @@
 [submodule "3rdparty/LASzip"]
-	path = 3rdparty/LASzip
+	path = src/cpp_pubsub_ros1/src/3rdparty/LASzip
 	url = https://github.com/LASzip/LASzip.git
 [submodule "3rdparty/Livox-SDK2"]
 	path = 3rdparty/Livox-SDK2
 	url = https://github.com/Livox-SDK/Livox-SDK2.git
 [submodule "3rdparty/livox_ros_driver2"]
-	path = 3rdparty/livox_ros_driver2
+	path = src/livox_ros_driver2
 	url = https://github.com/Livox-SDK/livox_ros_driver2.git
 [submodule "3rdparty/LIO-SAM"]
-	path = 3rdparty/LIO-SAM
+	path = src/LIO-SAM
 	url = https://github.com/TixiaoShan/LIO-SAM.git
