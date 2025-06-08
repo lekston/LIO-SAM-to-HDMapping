@@ -55,7 +55,7 @@ add_executable(listener src/cpp_pubsub.cpp)
 
 ## Mark executable scripts (Python etc.) for installation
 catkin_install_python(PROGRAMS
-  scripts/imu_frame_remapper.py
+  scripts/imu_analysis.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
