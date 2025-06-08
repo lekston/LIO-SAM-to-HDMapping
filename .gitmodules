@@ -1,3 +1,9 @@
 [submodule "3rdparty/LASzip"]
 	path = 3rdparty/LASzip
 	url = https://github.com/LASzip/LASzip.git
+[submodule "3rdparty/Livox-SDK2"]
+	path = 3rdparty/Livox-SDK2
+	url = https://github.com/Livox-SDK/Livox-SDK2.git
+[submodule "3rdparty/livox_ros_driver2"]
+	path = 3rdparty/livox_ros_driver2
+	url = https://github.com/Livox-SDK/livox_ros_driver2.git
