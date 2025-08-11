@@ -10,3 +10,6 @@
 [submodule "3rdparty/LIO-SAM"]
 	path = src/LIO-SAM
 	url = https://github.com/TixiaoShan/LIO-SAM.git
+[submodule "ros_dockers"]
+	path = ros_dockers
+	url = git@github.com:lekston/ros_dockers.git
